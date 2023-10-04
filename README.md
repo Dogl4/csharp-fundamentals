@@ -10,6 +10,7 @@
     |--|
     | **Figura** **1** Screenshot do Editor HTML |
   </details>
+- MyTodo
 
 ## Run
 
@@ -29,6 +30,8 @@ cd /StopWatch/
 cd /TextEditor/
 #or
 cd /EditorHtml/
+#or
+cd /MyTodo/
 
 # install dependencies
 dotnet restore
